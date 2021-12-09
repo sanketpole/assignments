@@ -5,13 +5,13 @@
     text-align: left;
 }
 .center-aligned{
-    text-align: center;
+    text-align:center;
 }
 .right-aligned{
     text-align: right;
 }
 .green-text{
-    color: green;
+    color: rgb(16, 233, 16);
 }
 .tre{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
