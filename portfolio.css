@@ -1,0 +1,118 @@
+
+/* .sacramento{
+    font-family: 'Sacramento', cursive;
+}
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+.merriweather{
+    font-family: 'Merriweather', serif;
+} */
+body{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    background-color: #e6f2ff;
+} 
+.top-container{
+    background-color:#99ccff ;
+    position: relative;
+}
+.intro{
+    width: 50%;
+    margin: auto;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+    margin-top: 0px;
+    padding: 150px 0px 0px 0px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: normal; 
+    padding-bottom: 10px;
+    color:#99ccff
+}
+.color-black{
+    color: black;
+}
+.developer{
+    text-decoration: underline;
+}
+.profile-img{
+    width: 200px;
+    /* height: 200px; */
+    border-radius: 100px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#99ccff
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted gray 3px;
+    width: 20px;
+    border-bottom: none;
+    margin: 100px auto;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+a:hoover{
+    color: black;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottam-container{
+    padding: 50px 0px 20px;
+    background-color:#99ccff ;
+
+}
+.skills-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.code-img{
+    width: 50%;
+    float: left;
+    margin-left: 30px;
+}
+.Netflix{
+    width: 40%;
+    float: right;
+    margin-left: 30px;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn{
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    background-color:#99ccff ;
+    color: white;
+    font-size: 20px;
+    padding: 15px 10px;
+
+}
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top:30px;
+
+}
+.bottam-cloud{
+    position: absolute;
+    right:1000px;
+    top:775px;
+
+}
