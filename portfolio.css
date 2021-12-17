@@ -89,7 +89,9 @@ a:hoover{
 .Netflix{
     width: 40%;
     float: right;
-    margin-left: 30px;
+    /* margin-left: 30px; */
+    margin: 20px ;
+    
 }
 .contact-message{
     width: 40%;
